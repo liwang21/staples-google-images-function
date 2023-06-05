@@ -1,1 +1,0 @@
-# staples-google-images-function
